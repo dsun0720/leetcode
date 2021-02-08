@@ -1,4 +1,4 @@
-package ds.leetcode.dailychallenge.dataType;
+package ds.leetcode.dataType;
 
 /**
  * Definition for a binary tree node.

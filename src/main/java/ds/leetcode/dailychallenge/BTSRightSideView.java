@@ -1,6 +1,6 @@
 package ds.leetcode.dailychallenge;
 
-import ds.leetcode.dailychallenge.dataType.TreeNode;
+import ds.leetcode.dataType.TreeNode;
 
 import java.util.ArrayList;
 import java.util.HashMap;
